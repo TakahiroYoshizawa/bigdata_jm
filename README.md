@@ -1,8 +1,4 @@
 # bigdata_jm
 頑張るぞい
-<<<<<<< HEAD
-
+へい
 ぞうさん
-=======
-ぞい
->>>>>>> jmodeBigdata/master
